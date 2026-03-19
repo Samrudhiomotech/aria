@@ -1,14 +1,14 @@
 streamlit
 numpy
 pandas
-matplotlib==3.8.4
+matplotlib
 scipy
 scikit-learn
 joblib
 torch
 torchvision
 opencv-python-headless
-mediapipe==0.10.14
+mediapipe
 Pillow
 streamlit-webrtc
 av

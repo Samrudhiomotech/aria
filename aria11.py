@@ -887,7 +887,7 @@ def page_welcome():
         st.markdown(
             f'<div style="background:#FFFAF0;border:1px solid {WARN}44;border-radius:5px;'
             f'padding:.5rem .7rem;font-size:.74rem;color:{WARN};line-height:1.55;">'
-            f'Research use only. Not a clinical diagnosis. Requires neurologist review.</div>',
+            f'Research.</div>',
             unsafe_allow_html=True)
 
 
